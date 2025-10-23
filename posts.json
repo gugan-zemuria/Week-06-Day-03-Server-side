@@ -1,0 +1,8 @@
+[
+  {
+    "id": "1",
+    "title": "Welcome",
+    "body": "This is the first post in the file-backed DB.",
+    "createdAt": "2025-10-21T00:00:00.000Z"
+  }
+]
